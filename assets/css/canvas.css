@@ -1,0 +1,20 @@
+.canvas{
+    background: #eee;
+}
+
+.btn{
+    background-color: #baeeb1;
+    border: none;
+    padding: 5px 21px;
+    display: inline;
+    font-size: 15px;
+    cursor: pointer;
+    margin-right: 1px;
+}
+.toolbar {
+    margin-block-end: 2mm;
+    width: 500px;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
